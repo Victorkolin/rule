@@ -1,5 +1,4 @@
-# > Netflix
-USER-AGENT,Argo*
+# > openAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chat.openai.com
 # GEOIP,openai,no-resolve
